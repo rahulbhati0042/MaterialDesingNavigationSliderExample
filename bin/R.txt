@@ -344,8 +344,14 @@ int drawable abc_textfield_default_mtrl_alpha 0x7f02002f
 int drawable abc_textfield_search_activated_mtrl_alpha 0x7f020030
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f020031
 int drawable abc_textfield_search_material 0x7f020032
-int drawable divider_line 0x7f020033
-int drawable ic_launcher 0x7f020034
+int drawable bottom1 0x7f020033
+int drawable bottom2 0x7f020034
+int drawable divider_line 0x7f020035
+int drawable first 0x7f020036
+int drawable fourth 0x7f020037
+int drawable ic_launcher 0x7f020038
+int drawable second 0x7f020039
+int drawable third 0x7f02003a
 int id action_bar 0x7f050033
 int id action_bar_activity_content 0x7f05001a
 int id action_bar_container 0x7f050032

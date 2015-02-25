@@ -62,8 +62,6 @@ public class MainActivity extends ActionBarActivity implements DrawerCallbacks {
 			fragment = new ItemFourth();
 			break;
 
-		
-
 		default:
 			break;
 		}
