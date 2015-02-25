@@ -1,0 +1,12 @@
+<resources>
+    <color name="actionbarbackground">#1976D2</color>
+    <color name="myPrimaryDarkColor">#3F51B5</color>
+    <color name="myAccentColor">#90CAF9</color>
+    <color name="myDrawerBackground">#E3F2FD</color>
+    <color name="myWindowBackground">#64B5F6</color>
+    <color name="myTextPrimaryColor">#FFFFFF</color>
+    <color name="myNavigationColor">#000000</color>
+
+    <color name="selection">#F5F5F5</color>
+    <color name="colorPrimary">#9C27B0</color>
+</resources>
